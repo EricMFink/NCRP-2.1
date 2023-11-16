@@ -1,0 +1,24 @@
+# Town of Belhaven, NC v. Pantego Creek, LLC
+
+Cite: 793 S.E.2d 711, 716+
+Court: N.C.App.
+Issued Date: Nov. 15, 2016
+Reviewed: Yes
+
+716: “On 30 April 2015, Senior Resident Superior Court Judge Wayland J. Sermons, Jr. sent a formal letter to Chief Justice Mark Martin of the North Carolina Supreme Court, copied to counsel for all parties, recommending that the case be designated as exceptional and that Chief Justice Martin assign a judge to the case in his absolute discretion. On 7 May 2015, Chief Justice Martin entered an order designating the case as exceptional pursuant to [Rule 2.1 of the General Rules of Practice for the Superior and District Courts](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=If9995070ab9511e6972aa83e6c16e5f7&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=68462425e564468baefd78c11867b95d&contextData=(sc.Search)) and appointing the Honorable R. Stuart Albright to adjudicate the matter.”
+
+722, ISSUE: Plaintiff argues that their right to a fair and impartial hearing was denied when the Chief Justice designated the present case as an exceptional case upon the formal recommendation of the Senior Resident Superior Court Judge for the Second Judicial District and appointed Judge Albright to adjudicate the matter. Plaintiffs now argue that they were prejudiced by Judge Albright's adjudication of the case and request that this Court vacate Judge Albright's order dismissing Plaintiffs’ claims and remand for a new hearing with a judge that they would prefer over Judge Albright.
+
+HOLDING: Defendant’s motion to dismiss Plaintiff’s claims that their right to a fair and impartial trial is granted because this court does not have the power to overrule a Supreme Court Order.
+
+Defendant-Appellee’s Appeal Brief 2016 WL 4581596: “Chief Justice Martin designated the case as “exceptional” pursuant to [Rule 2.1 of the General Rules of Practice](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=Ic2ede63d71ad11e6b4bafa136b480ad2&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=b7a92e50c2384712bf4381c3930b52b5&contextData=(sc.RelatedInfo)) and assigned Judge Albright to preside over the case. (R p 119).”
+
+Defendant-Appellee’s Brief 2016 WL 6083062: “On 22 April 2015, the Honorable Resident Superior Court Judge Wayland J. Sermons, Jr. (hereinafter “Judge Sermons”), of the Second Judicial District, filed a petition pursuant to [Rule 2.1 of the General Rules of Practice for the Superior and District Courts](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=I2cef927e955711e69822eed485bc7ca1&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=51d57b219b0a46908c936b2ad043ba0c&contextData=(sc.RelatedInfo)), requesting that the case be designated as exceptional and that it be assigned to Judge Milton F. Fitch, Jr. (hereinafter “Judge Fitch”), who had previously presided over a hearing on a Motion for Temporary Restraining Order prior to the case's removal to federal court. (R p 116)” “…Furthermore, no statute or case law confers on this Court the ability to second guess the Chief Justice on the issue of who he will select under [Rule 2.1](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=I2cef927e955711e69822eed485bc7ca1&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=51d57b219b0a46908c936b2ad043ba0c&contextData=(sc.RelatedInfo)) following the designation of a case as exceptional.” “…At no place in the Rules of Practice is there any provision permitting a trial judge to have a hearing prior or subsequent to the determination by the Chief Justice of the appropriate judge to hear a 2.1 case.”
+
+In Record p 119 and 116, No record on Westlaw
+
+ANALYSIS:  The jurisdiction of Plaintiff’s rights-violation claim was not the only reason that claim failed. There is no law that gives the lower court the ability to question the appointment of a judge to the case by the Chief Justice. This also caused Plaintiff’s claim to fail. From this, a Plaintiff cannot sustain a claim of violation of their right to a full and impartial hearing on the grounds that the appointment of a certain judge was prejudicial to the case in a court lower than the one who appointed said judge. 
+
+SUMMARY: Town, NAACP, and other Plaintiffs instituted an action for multiple breaches. The facts show multiple agreements and company ownership transfers, creating a complicated pre-trial web.
+
+THEORY: Designated because complex evidentiary material, I also think it could have been designated because of the Town being a party and/or the large number of people the Plaintiff’s represent.

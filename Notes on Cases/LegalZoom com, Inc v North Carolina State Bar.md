@@ -1,0 +1,18 @@
+# LegalZoom.com, Inc. v. North Carolina State Bar
+
+Cite: 2012 WL 3678650, *1
+Court: N.C.Super.
+Issued Date: Aug. 27, 2012
+Reviewed: Yes
+
+1: “The matter was initially designated as an exceptional civil case pursuant to [General Rules of Practice for the Superior and District Courts 2.1](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1006366&cite=NCRSUPDR2.1&originatingDoc=I1d68c83ff16611e1b343c837631e1747&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=e185ebf3d0eb4260a19fa14395acf2e1&contextData=(sc.UserEnteredCitation)). Subsequently, the State Bar gave notice of its designation of the matter as a mandatory complex business case pursuant to [N.C. Gen.Stat. § 7A–45](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000037&cite=NCSTS7A-45&originatingDoc=I1d68c83ff16611e1b343c837631e1747&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=e185ebf3d0eb4260a19fa14395acf2e1&contextData=(sc.UserEnteredCitation)), as a result of which Chief Justice Parker designated the matter to the Business Court, and Business Court Chief Judge Jolly assigned the matter to the undersigned.” 
+
+Plaintiff’s Opposition to Notice of Designation and Motion to Remand 2011 WL 7787835: “Plaintiff LegalZoom.Com, Inc. respectfully moves and requests that this honorable Court remand this matter, previously designated as an exceptional case pursuant to Rule 2.1 of the Superior Court, to the Wake County Superior Court, so designated by Order of the Chief Justice and to the Rule 2.1 Judge designated, the Honorable Paul Gessner.” Gives reason for destination as “The reasons given in support of Plaintiff's Motion were that such designation and appointment was necessary to provide for the efficient and orderly administration of justice for a case involving “exceptional and complex constitutional, statutory and regulatory claims and law” and by its caption necessarily involved a state administrative agency, The North Carolina State Bar.” Plaintiff disagrees with the designation as a complex business case and wants the case to remain as an exceptional civil case on the basis that the case does not qualify as a complex business case as it does not meet the Seven Categories of mandatory complex business case designation. 
+
+SUMMARY: LegalZoom (online provider of legal services) brought an action against the NC State Bar seeking a declaratory judgment that LegalZoom was not engaging in the unauthorized practice of law and asserting claims of commercial disparagement and state constitutional violations. 
+
+No Record Available on Westlaw
+
+ANALYSIS: We know why the designation was given from Plaintiff’s Opposition to Notice of Designation listing the reasons as “efficient and orderly administration of justice” for a case with “exceptional and complex constitutional, statutory and regulatory claims and law” and for also involving a state administrative agency. This puts weight to my previous theory that a state government/government-adjacent agency being a party to the action makes it more likely a case will be designated. I think this designation is significantly more related to “orderly administration of justice” (in search of a clear ruling) rather than just judicial efficiency, even though efficiency is listed as a reason. I think this because the judicial system would benefit greatly from a clear ruling on whether LegalZoom can continue with their business of providing online legal services or whether it is an example of the unauthorized practice of law. Without such a clear ruling, it seems likely that an issue like this one would return to court in the future. 
+
+THEORY: No theory needed, we know why the case was designated.

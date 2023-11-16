@@ -1,0 +1,18 @@
+# Anderson Creek Partners, L.P. v. County of Harnett
+
+Cite: 854 S.E.2d 1, 4
+Court: N.C.App.
+Issued Date: Dec. 31, 2020
+Reviewed: No
+
+4: “The Anderson Creek case was designated an exceptional civil case under [Rule 2.1 of the General Rules of Practice for the Superior and District Courts](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=I4a118700503a11eba075d817282e94c2&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=4c1afc2038d54068a7c45b8e6f85d540&contextData=(sc.Search)) on 27 September 2017 and was reassigned to another Superior Court Judge in Chatham County.” 
+
+Brief of Plaintiff-Appellant 2019 WL 3718461: “The trial court entered an Order on 28 September 2018 recommending that the Chief Justice designate this case as an exceptional civil case under [Rule 2.1 of the General Rules of Practice](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=Ic079e298b9d011e99b14f2ee541cf11a&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=7ed65bb131bd428ab85605a6655d574f&contextData=(sc.RelatedInfo)) and that the Hon. Michael J. O'Foghludha be assigned judge. (R p. 217) The Chief Justice thereafter designated this action as a [Rule 2.1](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=Ic079e298b9d011e99b14f2ee541cf11a&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=7ed65bb131bd428ab85605a6655d574f&contextData=(sc.RelatedInfo)) case and assigned Judge O'Foghludha.” … “In a Consent Motion to Consolidate filed 5 October 2018, the parties stipulated that (1) this action should be consolidated with Anderson Creek Partners, LP, et al. v. County of Harnett, Harnett County Superior Court No. 17-CVS-363 (“Anderson Creek”), a similar action also challenging the County's Ordinance and Fees, and claims One through Six are identical in both actions; (2) that Judge O'Foghludha will be assigned as a [Rule 2.1](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=Ic079e298b9d011e99b14f2ee541cf11a&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=7ed65bb131bd428ab85605a6655d574f&contextData=(sc.RelatedInfo)) judge in this action; (3) that Judge O'Foghludha is the [Rule 2.1](https://1.next.westlaw.com/Link/Document/FullText?findType=L&pubNum=1008947&cite=NCRSUPDR2.1&originatingDoc=Ic079e298b9d011e99b14f2ee541cf11a&refType=LQ&originationContext=document&transitionType=DocumentItem&ppcid=7ed65bb131bd428ab85605a6655d574f&contextData=(sc.RelatedInfo)) Judge in Anderson Creek, and previously considered the identical Motion for Judgment on the Pleadings and Motion to Join Parties filed in this action in Anderson Creek on 6 August 2018;”
+
+No Record on Westlaw
+
+ANALYSIS: Brief of Plaintiff-Appellant describes how this action was designated in connection with other related/similar actions.
+
+SUMMARY: Developers are bringing a consolidated action against Harnett County. Plaintiffs are seeking a refund for fees they paid to Harnett County for water and sewer services provided to their developments. 
+
+THEORY: It seems likely that this case was designated because of the connections between the many Developer’s cases. I think this would fall under ‘number and diverse interests of the parties”

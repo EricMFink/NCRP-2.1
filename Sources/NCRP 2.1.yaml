@@ -1,0 +1,163 @@
+---
+references:
+- id: 14JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 14JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    14 Jud. Dist. Case Mgmt. Sys. Rule 6 -- Peremptory, Priority,  Remanded, and
+    Exceptional Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 18JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 18JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: 18 Jud. Dist. Super. Rule 14.0. Miscellaneous
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 26JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 26JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: 26 Jud. Dist. Sup. Civil Rule 7 -- Exceptional and Complex Business Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 3BJudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 3BJudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    3B Jud.Dist. Super. Civ. Case Mgmt. Rule 3 -- Priority, Peremptory,
+    Remanded, Exceptional or Complex Business (Rule 2.1) Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: DesignationExceptionalCivil_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: DesignationExceptionalCivil_nd
+  container-title: N.C. R. Prac. Super. & Dist. Ct.
+  container-title-short: NC R Pr. Super Dist Ct
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}Citation Key: NCRP_2.1
+  section: '2.1'
+  title: Designation of Exceptional Civil Cases and Complex Business Cases
+  type: legislation
+  URL: >-
+    https://casetext.com/rule/north-carolina-court-rules/north-carolina-rules-of-practice-for-the-superior-and-district-courts-supplemental-to-the-rules-of-civil-procedure/general-rules-of-practice-for-the-superior-and-district-courts-supplemental-to-the-rules-of-civil-procedure-adopted-pursuant-to-gs-7a-34/rule-22-designation-of-special-superior-court-judge-for-complex-business-cases
+
+- id: DesignationSpecialSuperior_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: DesignationSpecialSuperior_nd
+  container-title: N.C. R. Prac. Super. & Dist. Ct.
+  container-title-short: NC R Pr. Super Dist Ct
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}Citation Key: NCRP_2.2
+  section: '2.2'
+  title: Designation of Special Superior Court Judge for Complex Business Cases
+  type: legislation
+
+- id: JudDistSuper_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: JudDistSuper_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    7 Jud. Dist. Super Civil Calendar Section X. Exceptional Civil and Complex
+    Business Cases--Rule 2.1 General Rules of Practic
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: JudDistSuper_nda
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: JudDistSuper_nda
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    5 Jud.Dist. Super. Civil Rule 3. PRIORITY, PEREMPTORY, REMANDED, EXCEPTIONAL
+    OR COMPLEX BUSINESS (RULE 2.1) CASES
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: OBrien2002
+  author:
+    - family: O'Brien
+      given: Carrie A
+  citation-key: OBrien2002
+  container-title: N.C. Banking Institute
+  container-title-short: NC Bank. Inst.
+  issued:
+    - year: 2002
+  language: en
+  page: '367'
+  source: Zotero
+  title: >-
+    The North Carolina Business Court: North Carolina's Special Superior Court
+    for Complex Business Cases
+  type: article-journal
+  volume: '6'
+
+- id: Vanderlin_nd
+  abstract: >-
+    Learn how to use Zotero (a free citation management tool) to organize your
+    research and create Bluebook citations.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  author:
+    - family: Vanderlin
+      given: Scott
+  citation-key: Vanderlin_nd
+  language: en
+  license: Copyright UChicago 2023
+  title: 'Library Guides: Citation Management for Law Students: Saving Your Research'
+  title-short: Library Guides
+  type: webpage
+  URL: https://guides.lib.uchicago.edu/zotero4law/research
+...
